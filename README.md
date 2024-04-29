@@ -4,7 +4,7 @@ A collection of winning case studies presentation - designed and developed by Ro
 **Case Colossal**
 
 **International**
-- International finalist at American University in Cairo Center for Entrepreneurship and Innovation. [View](files/example.pdf)
+- International finalist at American University in Cairo Center for Entrepreneurship and Innovation. 
 - Finalist in EY Scholarship Program 2022–23. 
 - International finalist at Natixis Corporate and Investment Banking Business Sustainability Hackathon. [View](files/Natixis.pdf)
 - Asia Champion at Melbourne Global Microfinance Case Competition 2022. [View](files/GMCC.pdf)
