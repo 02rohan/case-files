@@ -16,3 +16,6 @@ A collection of winning case studies presentation - designed and developed by Ro
 - UNICEF and UNDP India Finalist: Young Scholar Award for Sustainability Research.
 - National Finalist: Electhon ‘23 (Issued by Election Commission of India) for Developing Tech and Social Interventions to Secure India’s Electoral Future.
 - Winner: NSUT Delhi National Case Study Competition 2022
+
+**Others**
+- Adobe Analytics Challenge, Hilton consumer engagement case.
